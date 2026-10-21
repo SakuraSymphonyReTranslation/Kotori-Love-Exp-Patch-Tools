@@ -15,3 +15,6 @@ Desktop.ini
 
 # Locally extracted copy of the distributed tool package
 /BijikTools-v0.6-beta2/
+
+# Local unpacked scripts, translation JSON, and repacked archives
+/work/
