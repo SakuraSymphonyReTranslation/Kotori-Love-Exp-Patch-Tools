@@ -1,0 +1,17 @@
+# Local credentials and editor state
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# Temporary files and Python cache
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+Thumbs.db
+Desktop.ini
+
+# Locally extracted copy of the distributed tool package
+/BijikTools-v0.6-beta2/
